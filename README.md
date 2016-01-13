@@ -24,7 +24,7 @@ Set the 3 following env vars
 ##Run
 
 ```
-$ API_USER=xxxx API_PASSWORD=xxx DEVICEID=1234ABC
+$ API_USER=xxxx API_PASSWORD=xxx DEVICEID=1234ABC python deviceMessages.py
 ```
 
 
