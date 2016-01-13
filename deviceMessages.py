@@ -4,7 +4,7 @@ from requests.auth import HTTPBasicAuth
 
 user = os.getenv('API_USER')
 password = os.getenv('API_PASSWORD')
-deviceId = os.getenv('DEVICEID');
+deviceId = os.getenv('DEVICEID')
 
 url = 'https://backend.sigfox.com/api/devices/'+deviceId+'/messages'
 
